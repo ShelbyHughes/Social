@@ -1,3 +1,7 @@
 form{
     text-align: center;
 }
+.wrapper{
+    background-image: url("../images/backgrounds/desktop.jpg");
+    background-size: 100%;
+}
